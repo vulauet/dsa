@@ -4,7 +4,7 @@ Data Structures and Algorithms practice for fun and profit
 
 # Practice list
 ## Data Structures
-- [ ] Arrays
+- [x] Arrays
 - [ ] Linked Lists
 - [ ] Trees
 - [ ] Stacks
