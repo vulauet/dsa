@@ -4,7 +4,7 @@ Data Structures and Algorithms practice for fun and profit
 
 # Practice list
 ## Data Structures
-- [x] Arrays
+- [x] ~~Arrays~~
 - [ ] Linked Lists
 - [ ] Trees
 - [ ] Stacks
@@ -21,3 +21,6 @@ Data Structures and Algorithms practice for fun and profit
 - [ ] Greedy
 - [ ] Dynamic Programming
 - [ ] Bit Manipulation
+
+## Write-up
+- [ ] [Game Of Two Stacks] (https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
