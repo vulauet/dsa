@@ -23,4 +23,5 @@ Data Structures and Algorithms practice for fun and profit
 - [ ] Bit Manipulation
 
 ## Write-up
-- [ ] [Game Of Two Stacks] (https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
+- [ ] [Game Of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem 
+"Problem definition")
