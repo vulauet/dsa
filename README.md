@@ -1,6 +1,6 @@
 # Introduction
 
-Data Structures and Algorithms practice for fun and profit
+Data Structures and Algorithms practice for fun and profit. Most problems are from hackerrank.com  
 
 # Practice list
 ## Data Structures
