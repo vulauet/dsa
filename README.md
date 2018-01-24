@@ -5,10 +5,10 @@ Data Structures and Algorithms practice for fun and profit. Most problems are fr
 # Practice list
 ## Data Structures
 - [x] ~~Arrays~~
-- [ ] Linked Lists
+- [x] ~~Linked Lists~~
 - [ ] Trees
-- [ ] Stacks
-- [ ] Queues
+- [x] ~~Stacks~~
+- [x] ~~Queues~~
 - [ ] Heap
 - [ ] Disjoint Set
 
