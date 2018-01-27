@@ -24,4 +24,4 @@ Data Structures and Algorithms practice for fun and profit. Most problems are fr
 
 ## Write-up
 - [ ] [Game Of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem 
-"Problem definition")
+"Problem's definition")
