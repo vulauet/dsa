@@ -27,7 +27,6 @@ public class QHeap1 {
         }
     }
 
-
     private static class QHeap {
         private Set<Integer> dataSet;
         private int min;
