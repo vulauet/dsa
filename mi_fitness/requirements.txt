@@ -1,0 +1,3 @@
+# Unofficial Mi Fitness cloud client (AGPL-3.0). Pinned because bridge_shim.py
+# patches two of its internals; re-test the shim before bumping this tag.
+mi-fitness-data-bridge @ git+https://github.com/shkyyy18/mi_fitness_data_bridge.git@v0.3.3

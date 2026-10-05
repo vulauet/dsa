@@ -1,0 +1,12 @@
+[Unit]
+Description=Run Mi Fitness daily collection every morning
+
+[Timer]
+# Morning, so last night's sleep has had time to reach the cloud.
+OnCalendar=*-*-* 09:17
+RandomizedDelaySec=15min
+# Catch up after the machine was off/asleep at the scheduled time.
+Persistent=true
+
+[Install]
+WantedBy=timers.target

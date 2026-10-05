@@ -53,3 +53,11 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+
+# Mi Fitness daily collection: never commit credentials or health data
+mi_fitness/.venv/
+mi_fitness/**/__pycache__/
+mi_fitness/credentials.env
+mi_fitness/**/*.db
+mi_fitness/exports/
+mi_fitness/logs/

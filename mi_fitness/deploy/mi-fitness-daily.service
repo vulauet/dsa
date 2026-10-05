@@ -1,0 +1,12 @@
+[Unit]
+Description=Collect yesterday's Mi Fitness data
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+# Adjust both paths to where you cloned this repo / created the venv.
+WorkingDirectory=%h/dsa/mi_fitness
+ExecStart=%h/dsa/mi_fitness/.venv/bin/python daily_sync.py
+EnvironmentFile=-%h/.config/mi-fitness-daily/credentials.env
+Nice=10
